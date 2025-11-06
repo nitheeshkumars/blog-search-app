@@ -1,0 +1,6 @@
+[
+  { "id": 1, "title": "First Blog Post", "content": "This is the content of the first blog post." },
+  { "id": 2, "title": "Second Blog Post", "content": "This is the content of the second blog post." },
+  { "id": 3, "title": "React and Redux Saga", "content": "Learn how to handle async actions with Redux Saga." },
+  { "id": 4, "title": "Understanding JavaScript Closures", "content": "A guide to closures and lexical scoping." }
+]
