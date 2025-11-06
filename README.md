@@ -39,6 +39,6 @@ npm run dev
 ```
 
 ## Attachments
-![Image_1](./images/image_1.png)
-![Image_2](./images/image_2.png)
-![Image_3](./images/image_3.png)
+![Image_1](./images/Image_1.png)
+![Image_2](./images/Image_2.png)
+![Image_3](./images/Image_3.png)
