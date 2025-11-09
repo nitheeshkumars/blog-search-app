@@ -39,6 +39,14 @@ npm run dev
 ```
 
 ## Attachments
-![Image_1](./images/Image_1.png)
-![Image_2](./images/Image_2.png)
-![Image_3](./images/Image_3.png)
+
+### 🎬 Demo Video
+[![Watch Demo](./images/images_1.png)](./video/demo.mp4)
+*Click the image to watch the demo.*
+
+### 🖼 Screenshots
+Here are some relevant images:
+
+![Image_1](./images/images_1.png)
+![Image_2](./images/images_2.png)
+![Image_3](./images/images_3.png)
