@@ -41,7 +41,7 @@ npm run dev
 ## Attachments
 
 ### 🎬 Demo Video
-[![Watch Demo](./images/images_1.png)](./video/demo.mp4)
+[![Watch Demo](./images/images_1.png)](./video/demo_video.mp4)
 *Click the image to watch the demo.*
 
 ### 🖼 Screenshots
