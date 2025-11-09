@@ -1,6 +1,82 @@
 [
-  { "id": 1, "title": "First Blog Post", "content": "This is the content of the first blog post." },
-  { "id": 2, "title": "Second Blog Post", "content": "This is the content of the second blog post." },
-  { "id": 3, "title": "React and Redux Saga", "content": "Learn how to handle async actions with Redux Saga." },
-  { "id": 4, "title": "Understanding JavaScript Closures", "content": "A guide to closures and lexical scoping." }
+  {
+    "id": 1,
+    "title": "10 Tips for Remote Work Productivity",
+    "content": "Remote work is here to stay, but staying productive can be challenging. From creating a dedicated workspace to scheduling regular breaks, these tips help you maintain focus and efficiency while working from home.",
+    "imageUrl": "./blog-images/1.png",
+    "likes": 250,
+    "commentsCount": 34
+  },
+  {
+    "id": 2,
+    "title": "Exploring the Future of AI in Everyday Life",
+    "content": "Artificial Intelligence is rapidly transforming industries and personal life. From smart assistants to AI-driven healthcare, we explore how these technologies will shape the way we live and work in the next decade.",
+    "imageUrl": "./blog-images/2.png",
+    "likes": 320,
+    "commentsCount": 50
+  },
+  {
+    "id": 3,
+    "title": "A Beginner’s Guide to Investing in Stocks",
+    "content": "Investing in the stock market can seem daunting at first. This guide covers the basics, including understanding risk, building a diversified portfolio, and tips for long-term financial growth.",
+    "imageUrl": "./blog-images/3.png",
+    "likes": 180,
+    "commentsCount": 22
+  },
+  {
+    "id": 4,
+    "title": "The Benefits of Mindfulness Meditation",
+    "content": "Mindfulness meditation can improve mental health, reduce stress, and boost focus. Learn simple exercises that can be incorporated into your daily routine to cultivate mindfulness and well-being.",
+    "imageUrl": "./blog-images/4.png",
+    "likes": 210,
+    "commentsCount": 28
+  },
+  {
+    "id": 5,
+    "title": "Top 10 Travel Destinations for 2025",
+    "content": "Planning your next adventure? From hidden gems to popular tourist spots, we highlight the top destinations to visit in 2025 and provide tips for a memorable travel experience.",
+    "imageUrl": "./blog-images/5.png",
+    "likes": 400,
+    "commentsCount": 60
+  },
+  {
+    "id": 6,
+    "title": "How to Build a Personal Brand Online",
+    "content": "Creating a strong personal brand is essential in today’s digital world. Learn strategies for building credibility, sharing your expertise, and growing your presence on social media and professional platforms.",
+    "imageUrl": "./blog-images/6.png",
+    "likes": 275,
+    "commentsCount": 33
+  },
+  {
+    "id": 7,
+    "title": "Understanding Climate Change and Its Impact",
+    "content": "Climate change affects ecosystems, weather patterns, and communities worldwide. This article explores the causes, consequences, and actions individuals and governments can take to address this pressing global issue.",
+    "imageUrl": "./blog-images/7.png",
+    "likes": 310,
+    "commentsCount": 44
+  },
+  {
+    "id": 8,
+    "title": "Healthy Eating: Simple Tips for Busy People",
+    "content": "Maintaining a healthy diet can be challenging with a busy lifestyle. We share practical tips for meal planning, smart grocery shopping, and quick recipes that help you eat nutritious meals every day.",
+    "imageUrl": "./blog-images/8.png",
+    "likes": 220,
+    "commentsCount": 25
+  },
+  {
+    "id": 9,
+    "title": "Mastering Time Management in the Workplace",
+    "content": "Time management is key to professional success. Learn techniques to prioritize tasks, avoid distractions, and maximize productivity, whether working in an office or remotely.",
+    "imageUrl": "./blog-images/9.png",
+    "likes": 195,
+    "commentsCount": 19
+  },
+  {
+    "id": 10,
+    "title": "The Rise of Electric Vehicles in 2025",
+    "content": "Electric vehicles are changing the automotive industry. We explore the latest models, charging infrastructure, and government policies that are driving the adoption of EVs worldwide.",
+    "imageUrl": "./blog-images/10.png",
+    "likes": 360,
+    "commentsCount": 47
+  }
 ]
